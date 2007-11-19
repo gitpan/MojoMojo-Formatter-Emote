@@ -1,0 +1,19 @@
+--- 
+abstract: MSN Smileys in your text.
+author: Marcus Ramberg <mramberg@cpan.org>
+distribution_type: module
+generated_by: Module::Install version 0.67
+license: perl
+meta-spec: 
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: MojoMojo-Formatter-Emote
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  MojoMojo: 0
+  Text::Emoticon::MSN: 0
+tests: t/01use.t
+version: 0.01
